@@ -1,4 +1,4 @@
-## Bioinformatics Conference Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+## Bioinformatics Conference Deadlines
 
 Countdown timers to keep track of cardiovascular/genomics conference deadlines. Forked from https://github.com/paperswithcode/ai-deadlines.
 
