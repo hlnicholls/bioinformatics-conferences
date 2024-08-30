@@ -1,0 +1,19 @@
+---
+- name: Bioinformatics
+  sub: BIOINFO
+  color: "#0aff99"
+- name: Genomics
+  sub: GEN
+  color: "#147df5"
+- name: Proteomics
+  sub: PROT
+  color: "#580aff"
+- name: Clinical
+  sub: CLIN
+  color: "#42f554"
+- name: Cardiology
+  sub: CVD
+  color: "#f5a142"
+- name: Biobank
+  sub: BANK
+  color: "#4f8b75"

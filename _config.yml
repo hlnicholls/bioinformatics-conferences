@@ -1,0 +1,14 @@
+title: Conference Deadlines
+description: Countdown to bioinformatics conference abstract submission deadlines
+author: H Nicholls
+
+#domain: "https://pages.github.qmul.ac.uk/hhy553/bioinformatics-conferences/"
+#baseurl: ""
+
+github_username: hhy553
+github_repo: bioinformatics-conferences
+
+markdown: kramdown
+ga_id:
+
+include: ['_pages']

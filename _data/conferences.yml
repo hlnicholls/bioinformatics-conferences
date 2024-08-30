@@ -1,0 +1,158 @@
+## Example
+#- title: BestConf (REQUIRED)
+#  year: 2022 (REQUIRED)
+#  id: bestconf22  # title as lower case + last two digits of year (REQUIRED)
+#  full_name: Best Conference for Anything  # full conference name
+#  link: link-to-website.com (REQUIRED)
+#  deadline: YYYY-MM-DD HH:SS (REQUIRED)
+#  abstract_deadline: YYYY-MM-DD HH:SS
+#  timezone: Asia/Seoul (REQUIRED)
+#  place: Incheon, South Korea (REQUIRED)
+#  date: September, 18-22, 2022 (REQUIReD)
+#  start: YYYY-MM-DD
+#  end: YYYY-MM-DD
+#  paperslink: link-to-full-paper-list.com
+#  pwclink: link-to-papers-with-code.com
+#  hindex: 100.0
+#  sub: SP (REQUIRED)
+#  note: Important
+
+- title: ESHG
+  year: 2024
+  id: eshg2024
+  full_name: European Society of Human Genetics
+  link: https://2024.eshg.org/
+  deadline: '2024-02-05 23:59:00'
+  timezone: UTC-12
+  place: Berlin, Germany
+  date: June 01-06, 2024
+  start: 2024-06-01
+  end: 2024-06-04
+  sub: GEN
+  note: "The deadline for submissions is 06 February."
+
+- title: ASHG
+  year: 2024
+  id: ASHG2024
+  full_name: American Society of Human Genetics
+  link: https://www.ashg.org/meetings/2024meeting/
+  timezone: UTC-12
+  deadline: '2024-06-04 23:59:00'
+  place: Denver, United States
+  date: November 05-09, 2024
+  start: 2024-11-05
+  end: 2024-11-09
+  sub: GEN
+  note: "The abstract submission deadline is 05 June."
+
+- title: Mathematical and Statistical Aspects of Molecular Biology
+  year: 2024
+  id: MASAMB2025
+  full_name: Mathematical and Statistical Aspects of Molecular Biology
+  link: https://masamb2024.wixsite.com/masamb2024
+  timezone: UTC-12
+  deadline: '2024-08-15 23:59:00'
+  place: London, United Kingdom
+  date: August, 2024
+  start: 2024-08-29
+  end: 2024-08-30
+  sub: BIOINFO
+  note: "The abstract deadline has past."
+
+- title: BIHS
+  year: 2024
+  id: BIHS2024
+  full_name: British and Irish Hypertension Society 2024 Annual Scientific Meeting
+  link: https://bihsoc.org/events/2024-annual-scientific-meeting/
+  deadline: '2024-08-05 00:00:00'
+  timezone: Europe/London
+  place: Manchester, United Kingdom 
+  date: September, 09-10, 2024
+  start: 2024-09-09
+  end: 2024-09-10
+  sub: CVD
+  note: "The abstract deadline has past."
+
+- title: Computing in Cardiology
+  year: 2024
+  id: CinC2024
+  full_name: Computing in Cardiology Conference
+  link: https://www.cinc2024.org/
+  deadline: '2024-09-01 00:00:00'
+  abstract_deadline: '2024-04-15 00:00:00'
+  timezone: Europe/Berlin
+  place: Karlsruhe, Germany
+  date: September, 09-11, 2024
+  start: 2024-09-09
+  end: 2024-09-11
+  sub: ['CVD', 'BIOINFO']
+  note: "The abstract deadline has past."
+
+- title: Cardio Genomics Conference
+  year: 2024
+  id: CGC2024
+  full_name: ESC Cardio Genomics Conference
+  link: https://esc365.escardio.org/event/1652
+  deadline: '2024-09-04 00:00:00'
+  timezone: Europe/Brussels
+  place: Antwerp, Belgium
+  date: December, 06-07, 2024
+  start: 2024-12-06
+  end: 2024-12-07
+  sub: ['CVD', 'GEN']
+
+- title: UK Biobank Scientific Conference
+  year: 2024
+  id: UKB2024
+  full_name: UK Biobank 2024 Scientific Conference
+  link: https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/scientific-conference-2024
+  deadline: '2024-11-11 08:00:00'
+  timezone: Europe/London
+  place: London, United Kingdom
+  date: December, 10, 2024
+  start: 2024-12-10
+  end: 2024-12-10
+  sub: BANK
+  note: "The abstract submission is for UKB Early-Career Researcher of the Year 2024"
+
+- title: Festival of Genomics & Biodata
+  year: 2025
+  id: FGB2025
+  full_name: Festival of Genomics & Biodata
+  link: https://festivalofgenomics.com/london/en/page/home
+  timezone: UTC-12
+  deadline: '2024-08-30 23:59:00'
+  place: London, United Kingdom
+  date: January 29-30, 2025
+  start: 2025-01-29
+  end: 2025-01-30
+  sub: GEN
+  note: "Submission deadlines to be announced (usually in late August)."
+  
+- title: Intelligent Systems for Molecular Biology
+  year: 2025
+  id: ISMB2025
+  full_name: Intelligent Systems for Molecular Biology
+  link: https://www.iscb.org/ismbeccb2025/home
+  timezone: UTC-12
+  deadline: '2025-04-15 23:59:00'
+  place: Liverpool, United Kingdom
+  date: July, 2025
+  start: 2025-08-01
+  end: 2025-08-05
+  sub: BIOINFO
+  note: "Actual conference dates and submission deadlines TBD (submission usually in April)."
+
+- title: ESHG
+  year: 2025
+  id: eshg2025
+  full_name: European Society of Human Genetics
+  link: https://2025.eshg.org/
+  deadline: '2025-01-30 23:59:00'
+  timezone: UTC-12
+  place: Milan, Italy
+  date: May 24-27, 2025
+  start: 2025-05-24
+  end: 2025-05-27
+  sub: GEN
+  note: "The deadline for submissions is 30 January."
