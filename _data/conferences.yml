@@ -156,3 +156,17 @@
   end: 2025-05-27
   sub: GEN
   note: "The deadline for submissions is 30 January."
+
+- title: MICCAI
+  year: 2024
+  id: miccai2024
+  full_name: International Conference on Medical Image Computing and Computer-Assisted Intervention
+  link: https://conferences.miccai.org/2024/en/
+  deadline: '2024-03-30 23:59:00'
+  timezone: UTC-12
+  place: Marrakesh, Morocco
+  date: October 06-10, 2024
+  start: 2024-10-06
+  end: 2024-10-10
+  sub: CLIN
+  note: "The deadline for submissions has passed"
