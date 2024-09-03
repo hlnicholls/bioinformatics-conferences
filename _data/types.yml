@@ -1,7 +1,7 @@
 ---
 - name: Bioinformatics
   sub: BIOINFO
-  color: "#0aff99"
+  color: "#33daff"
 - name: Genomics
   sub: GEN
   color: "#147df5"
