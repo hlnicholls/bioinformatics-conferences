@@ -24,7 +24,7 @@ END:VEVENT
 {% if conf.deadline != "TBA" %}
 BEGIN:VEVENT
 SUMMARY:{{ conf.title }} {{ conf.year }} deadline
-UID:{{ conf.id }} {% if conf.timezone contains "UTC" %} {% assign tz = conf.timezone | split: "UTC" %} {% if tz[1] contains "-" %} {% assign tz = tz[1] | replace: "-", "+" %} {% else if tz[1] contains "+" %} {% assign tz = tz[1] | replace: "+", "-" %} {% else assign tz = tz[1] %} {% endif %}
+UID:{{ conf.id }}-deadline {% if conf.timezone contains "UTC" %} {% assign tz = conf.timezone | split: "UTC" %} {% if tz[1] contains "-" %} {% assign tz = tz[1] | replace: "-", "+" %} {% else if tz[1] contains "+" %} {% assign tz = tz[1] | replace: "+", "-" %} {% else assign tz = tz[1] %} {% endif %}
 ORGANIZER:{{ site.baseurl }}
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;TZID=Etc/GMT{{ tz }}:{{ conf.deadline | date: "%Y%m%dT%H%M%S" }}
