@@ -178,9 +178,23 @@
   link: https://iclr.cc/
   deadline: '2024-10-01 23:59:00'
   timezone: UTC-12
-  place: Singapore EXPO
-  date: 2025-04-24
-  start: 2024-04-28
-  end: 2024-06-04
-  sub: BIOINFO
+  place: Singapore, Singapore
+  date: 2025-04
+  start: 2025-04-24
+  end: 2025-04-28
+  sub: ML
   note: "The deadline for abstract submissions is 27 September 2024."
+
+- title: ICML
+  year: 2025
+  id: icml25
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/
+  deadline: '2025-01 23:59:00' tba
+  timezone: UTC-12
+  place: Vancouver, BC, Canada
+  date: 2025-07
+  start: 2025-07-13
+  end: 2025-07-19
+  sub: ML
+  note: "Submission deadlines tba, usually in late Jan."
