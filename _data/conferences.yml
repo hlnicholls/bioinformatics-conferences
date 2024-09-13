@@ -170,3 +170,17 @@
   end: 2024-10-10
   sub: CLIN
   note: "The deadline for submissions has passed"
+
+- title: ICLR
+  year: 2025
+  id: iclr25
+  full_name: The Thirteenth International Conference on Learning Representations
+  link: https://iclr.cc/
+  deadline: '2024-10-01 23:59:00'
+  timezone: UTC-12
+  place: Singapore EXPO
+  date: 2025-04-24
+  start: 2024-04-28
+  end: 2024-06-04
+  sub: BIOINFO
+  note: "The deadline for abstract submissions is 27 September 2024."
