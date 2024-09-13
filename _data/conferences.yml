@@ -177,24 +177,25 @@
   full_name: The Thirteenth International Conference on Learning Representations
   link: https://iclr.cc/
   deadline: '2024-10-01 23:59:00'
+  abstract_deadline: '2024-09-27 23:59:00'
   timezone: UTC-12
   place: Singapore, Singapore
-  date: 2025-04
+  date: April 24-28, 2025
   start: 2025-04-24
   end: 2025-04-28
   sub: ML
-  note: "The deadline for abstract submissions is 27 September 2024."
+  note: "The deadline for submissions is 27 September 2024 (abstract) / 01 October 2024 (full paper)."
 
 - title: ICML
   year: 2025
   id: icml25
   full_name: International Conference on Machine Learning
   link: https://icml.cc/
-  deadline: '2025-01 23:59:00' tba
+  deadline: '2025-01-10 23:59:00'
   timezone: UTC-12
   place: Vancouver, BC, Canada
-  date: 2025-07
+  date: July 13 - 19, 2025
   start: 2025-07-13
   end: 2025-07-19
   sub: ML
-  note: "Submission deadlines tba, usually in late Jan."
+  note: "Actual submission deadlines tba, usually in late Jan."
