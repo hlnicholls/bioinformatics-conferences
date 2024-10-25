@@ -170,3 +170,31 @@
   end: 2024-10-10
   sub: CLIN
   note: "The deadline for submissions has passed"
+
+- title: SEGEG
+  year: 2024
+  id: segeg2024
+  full_name: South England Genetics and Epidemiology Group (SEGEG) Meeting
+  link: https://www.eventbrite.co.uk/e/2024-south-england-genetics-and-epidemiology-group-segeg-meeting-tickets-1020431456957
+  deadline: '2024-02-05 23:59:00'
+  timezone: UTC-12
+  place: London, United Kingdom
+  date: November 22, 2024
+  start: 2024-11-22
+  end: 2024-11-22
+  sub: GEN
+
+- title: MEMTAB
+  year: 2025
+  id: memtab2025
+  full_name: Methods for Evaluating Models, Tests and Biomarkers (MEMTAB)
+  link: https://uobevents.eventsair.com/memtab-2025/
+  abstract_deadline: '2025-01-12 11:59:00'
+  timezone: UTC-12
+  place: London, United Kingdom
+  date: April 29, 2025
+  start: 2025-04-29
+  end: 2025-05-01
+  sub: ['CLIN', 'BIOINFO']
+
+
