@@ -1,7 +1,7 @@
 ---
 - name: Bioinformatics
   sub: BIOINFO
-  color: "#0aff99"
+  color: "#33daff"
 - name: Genomics
   sub: GEN
   color: "#147df5"
@@ -17,3 +17,6 @@
 - name: Biobank
   sub: BANK
   color: "#4f8b75"
+- name: Machine Learning
+  sub: ML
+  color: "#DA70D6"
