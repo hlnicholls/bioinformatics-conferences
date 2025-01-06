@@ -18,18 +18,17 @@
 #  note: Important
 
 - title: ESHG
-  year: 2024
-  id: eshg2024
+  year: 2025
+  id: eshg2025
   full_name: European Society of Human Genetics
-  link: https://2024.eshg.org/
-  deadline: '2024-02-05 23:59:00'
-  timezone: UTC-12
-  place: Berlin, Germany
-  date: June 01-06, 2024
-  start: 2024-06-01
-  end: 2024-06-04
+  link: https://2025.eshg.org/
+  deadline: '2025-01-30 23:59:00'
+  timezone: UTC+1
+  place: Milan, Italy
+  date: May 24-27, 2025
+  start: 2025-05-24
+  end: 2025-05-27
   sub: GEN
-  note: "The deadline for submissions is 06 February."
 
 - title: ASHG
   year: 2025
@@ -44,6 +43,19 @@
   end: 2025-10-18
   sub: GEN
   note: "The abstract submission deadline is 09 June."
+
+- title: EMGM
+  year: 2025
+  id: emgm2025
+  full_name: European Mathematical Genetics Meeting
+  link: https://emgm2025.sciencesconf.org/
+  deadline: '2025-02-02 00:00:00'
+  timezone: UTC+1
+  place: Brest, France
+  date: April 08-09, 2025
+  start: 2025-04-08
+  end: 2025-04-09
+  sub: GEN
 
 - title: Mathematical and Statistical Aspects of Molecular Biology
   year: 2025
@@ -65,11 +77,25 @@
   full_name: British and Irish Hypertension Society 2025 Annual Scientific Meeting
   link: https://bihs.org.uk/events/2025-annual-scientific-meeting/
   timezone: Europe/London
-  place: Manchester, United Kingdom 
+  place: Cambridge, United Kingdom 
   deadline: '2025-09-29 00:00:00'
   date: September, 29-30, 2025
   start: 2025-09-29
   end: 2025-09-30
+  sub: CVD
+  note: "The abstract deadline has not been released."
+
+- title: BCS
+  year: 2025
+  id: BCS2025
+  full_name: British and Irish Hypertension Society 2025 Annual Scientific Meeting
+  link: https://britishcardiovascularsociety.org.uk/annual-conference/
+  timezone: Europe/London
+  place: Manchester, United Kingdom 
+  deadline: '2025-06-02 00:00:00'
+  date: June 02-04, 2025
+  start: 2025-06-02
+  end: 2025-06-04
   sub: CVD
   note: "The abstract deadline has not been released."
 
@@ -252,4 +278,74 @@
   start: 2025-08-29
   end: 2025-09-01
   sub: ['CVD']
+
+
+- title: ACC.25
+  year: 2025
+  id: ACC2025
+  full_name: American College of Cardiology 2025
+  link: https://www.ashg.org/meetings/2025meeting/
+  timezone: UTC-5
+  deadline: '2024-10-01 13:00:00'
+  place: Chicago, United States
+  date: March 29-31, 2025
+  start: 2025-03-29
+  end: 2025-03-31
+  sub: ['CVD']
+  note: "The abstract deadline has passed."
+
+- title: Heart Rhythm 2025
+  year: 2025
+  id: HR2025
+  full_name: Heart Rhythm 2025
+  link: https://heartrhythm.com/attend/heart-rhythm-2025
+  timezone: UTC-8
+  place: San Diego, United States
+  deadline: '2024-12-02 00:00:00'
+  date: April 24-27, 2025
+  start: 2025-04-24
+  end: 2025-04-27
+  sub: ['CVD']
+  note: "The abstract deadline has passed."
+
+- title: IGES
+  year: 2025
+  id: iges2025
+  full_name: International Genetic Epidemiology Society
+  link: https://statgen.uni-koeln.de/iges2025/
+  deadline: '2025-08-31 23:59:00'
+  timezone: UTC+1
+  place: Cologne, Germany
+  date: August 31 - September 02, 2025
+  start: 2025-08-31
+  end: 2025-09-02
+  sub: GEN
+  note: "The abstract deadline has not been released yet."
+
+- title: ESH
+  year: 2025
+  id: esh2025
+  full_name: European Meeting on Hypertension and Cardiovascular Protection
+  link: https://eshannualmeetings.eu/
+  deadline: '2025-01-10 23:59:00'
+  timezone: UTC+1
+  place: Milan, Italy
+  date: May 23-26, 2025
+  start: 2025-05-23
+  end: 2025-05-26
+  sub: CVD
+
+- title: IEEE EMBS
+  year: 2025
+  id: EMBS2025
+  full_name: IEEE Engineering in Medicine and Biology Society
+  link: https://embc.embs.org/2025/
+  timezone: UTC+1
+  place: Copenhagen, Denmark
+  abstract_deadline: '2025-02-07 00:00:00'
+  deadline: '2025-01-31 00:00:00'
+  date: July 14-17, 2025
+  start: 2025-07-14
+  end: 2025-07-17
+  sub: BIOINFO
 
