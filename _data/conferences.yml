@@ -52,6 +52,7 @@
   link: https://www.ebi.ac.uk/goldman-srv/masamb/
   timezone: UTC-12
   place: London, United Kingdom
+  deadline: '2025-09-08 00:00:00'
   date: September 08-09, 2025
   start: 2025-09-08
   end: 2025-09-09
@@ -65,6 +66,7 @@
   link: https://bihs.org.uk/events/2025-annual-scientific-meeting/
   timezone: Europe/London
   place: Manchester, United Kingdom 
+  deadline: '2025-09-29 00:00:00'
   date: September, 29-30, 2025
   start: 2025-09-29
   end: 2025-09-30
@@ -78,6 +80,7 @@
   link: https://cinc2025.eventos.ufabc.edu.br/
   timezone: UTC-3
   place: Sao Paulo, Brazil
+  deadline: '2025-09-14 00:00:00'
   date: September, 14-17, 2025
   start: 2025-09-14
   end: 2025-09-17
