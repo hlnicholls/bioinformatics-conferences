@@ -32,61 +32,57 @@
   note: "The deadline for submissions is 06 February."
 
 - title: ASHG
-  year: 2024
-  id: ASHG2024
+  year: 2025
+  id: ASHG2025
   full_name: American Society of Human Genetics
-  link: https://www.ashg.org/meetings/2024meeting/
+  link: https://www.ashg.org/meetings/2025meeting/
   timezone: UTC-12
-  deadline: '2024-06-04 23:59:00'
-  place: Denver, United States
+  deadline: '2025-06-09 23:59:00'
+  place: Boston, United States
   date: November 05-09, 2024
-  start: 2024-11-05
-  end: 2024-11-09
+  start: 2025-10-14
+  end: 2025-10-18
   sub: GEN
-  note: "The abstract submission deadline is 05 June."
+  note: "The abstract submission deadline is 09 June."
 
 - title: Mathematical and Statistical Aspects of Molecular Biology
-  year: 2024
+  year: 2025
   id: MASAMB2025
   full_name: Mathematical and Statistical Aspects of Molecular Biology
-  link: https://masamb2024.wixsite.com/masamb2024
+  link: https://www.ebi.ac.uk/goldman-srv/masamb/
   timezone: UTC-12
-  deadline: '2024-08-15 23:59:00'
   place: London, United Kingdom
-  date: August, 2024
-  start: 2024-08-29
-  end: 2024-08-30
+  date: September 08-09, 2025
+  start: 2025-09-08
+  end: 2025-09-09
   sub: BIOINFO
-  note: "The abstract deadline has past."
+  note: "The abstract deadline has not been released."
 
 - title: BIHS
-  year: 2024
-  id: BIHS2024
-  full_name: British and Irish Hypertension Society 2024 Annual Scientific Meeting
-  link: https://bihsoc.org/events/2024-annual-scientific-meeting/
-  deadline: '2024-08-05 00:00:00'
+  year: 2025
+  id: BIHS2025
+  full_name: British and Irish Hypertension Society 2025 Annual Scientific Meeting
+  link: https://bihs.org.uk/events/2025-annual-scientific-meeting/
   timezone: Europe/London
   place: Manchester, United Kingdom 
-  date: September, 09-10, 2024
-  start: 2024-09-09
-  end: 2024-09-10
+  date: September, 29-30, 2025
+  start: 2025-09-29
+  end: 2025-09-30
   sub: CVD
-  note: "The abstract deadline has past."
+  note: "The abstract deadline has not been released."
 
 - title: Computing in Cardiology
-  year: 2024
-  id: CinC2024
+  year: 2025
+  id: CinC2025
   full_name: Computing in Cardiology Conference
-  link: https://www.cinc2024.org/
-  deadline: '2024-09-01 00:00:00'
-  abstract_deadline: '2024-04-15 00:00:00'
-  timezone: Europe/Berlin
-  place: Karlsruhe, Germany
-  date: September, 09-11, 2024
-  start: 2024-09-09
-  end: 2024-09-11
+  link: https://cinc2025.eventos.ufabc.edu.br/
+  timezone: UTC-3
+  place: Sao Paulo, Brazil
+  date: September, 14-17, 2025
+  start: 2025-09-14
+  end: 2025-09-17
   sub: ['CVD', 'BIOINFO']
-  note: "The abstract deadline has past."
+  note: "The abstract deadline has not been released."
 
 - title: Cardio Genomics Conference
   year: 2024
@@ -158,16 +154,17 @@
   note: "The deadline for submissions is 30 January."
 
 - title: MICCAI
-  year: 2024
-  id: miccai2024
+  year: 2025
+  id: miccai2025
   full_name: International Conference on Medical Image Computing and Computer-Assisted Intervention
-  link: https://conferences.miccai.org/2024/en/
-  deadline: '2024-03-30 23:59:00'
-  timezone: UTC-12
-  place: Marrakesh, Morocco
-  date: October 06-10, 2024
-  start: 2024-10-06
-  end: 2024-10-10
+  link: https://conferences.miccai.org/2025/en/default.asp
+  deadline: '2025-02-27 23:59:00'
+  abstract_deadline: '2025-02-13 23:59:00'
+  timezone: UTC+9
+  place: Daejeon, South Korea
+  date: September 23-27, 2025
+  start: 2025-09-23
+  end: 2025-09-27
   sub: CLIN
   note: "The deadline for submissions has passed"
 
@@ -239,4 +236,17 @@
   end: 2025-02-12
   sub: GEN
   note: "The deadline for submissions is 25 January."
+
+- title: ESC Congress 2025
+  year: 2025
+  id: ESC2024
+  full_name: ESC Congress 2025 together with World Congress of Cardiology
+  link: https://www.escardio.org/Congresses-Events/ESC-Congress
+  deadline: '2024-09-04 00:00:00'
+  timezone: Europe/Madrid
+  place: Madrid, Spain
+  date: August, 2024
+  start: 2025-08-29
+  end: 2025-09-01
+  sub: ['CVD']
 
