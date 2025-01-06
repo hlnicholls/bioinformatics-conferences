@@ -266,7 +266,7 @@
   sub: GEN
   note: "The deadline for submissions is 25 January."
 
-- title: ESC Congress 2025
+- title: ESC Congress
   year: 2025
   id: ESC2024
   full_name: ESC Congress 2025 together with World Congress of Cardiology
@@ -294,7 +294,7 @@
   sub: ['CVD']
   note: "The abstract deadline has passed."
 
-- title: Heart Rhythm 2025
+- title: Heart Rhythm
   year: 2025
   id: HR2025
   full_name: Heart Rhythm 2025
