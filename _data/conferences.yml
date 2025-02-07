@@ -29,6 +29,7 @@
   start: 2025-05-24
   end: 2025-05-27
   sub: GEN
+  note: "The deadline for submissions is 30 January."
 
 - title: ASHG
   year: 2025
@@ -167,20 +168,6 @@
   end: 2025-08-05
   sub: BIOINFO
   note: "Actual conference dates and submission deadlines TBD (submission usually in April)."
-
-- title: ESHG
-  year: 2025
-  id: eshg2025
-  full_name: European Society of Human Genetics
-  link: https://2025.eshg.org/
-  deadline: '2025-01-30 23:59:00'
-  timezone: UTC-12
-  place: Milan, Italy
-  date: May 24-27, 2025
-  start: 2025-05-24
-  end: 2025-05-27
-  sub: GEN
-  note: "The deadline for submissions is 30 January."
 
 - title: MICCAI
   year: 2025
