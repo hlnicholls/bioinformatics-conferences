@@ -18,44 +18,42 @@
 #  note: Important
 
 - title: ESHG
-  year: 2025
-  id: eshg2025
+  year: 2026
+  id: eshg2026
   full_name: European Society of Human Genetics
-  link: https://2025.eshg.org/
-  deadline: '2025-01-30 23:59:00'
+  link: https://2026.eshg.org/
+  deadline: '2026-02-12 23:59:00'
   timezone: UTC+1
-  place: Milan, Italy
-  date: May 24-27, 2025
-  start: 2025-05-24
-  end: 2025-05-27
+  place: Gothenburg, Sweden
+  date: June 13-16, 2026
+  start: 2026-06-13
+  end: 2026-06-16
   sub: GEN
-  note: "The deadline for submissions is 30 January."
 
 - title: ASHG
-  year: 2025
-  id: ASHG2025
+  year: 2026
+  id: ASHG2026
   full_name: American Society of Human Genetics
-  link: https://www.ashg.org/meetings/2025meeting/
+  link: https://www.ashg.org/annual-meeting-2026/
   timezone: UTC-12
-  deadline: '2025-06-09 23:59:00'
-  place: Boston, United States
-  date: November 05-09, 2024
-  start: 2025-10-14
-  end: 2025-10-18
+  deadline: '2026-05-18 23:59:00'
+  place: Montreal, Canada
+  date: October 20-24, 2026
+  start: 2026-10-20
+  end: 2026-10-24
   sub: GEN
-  note: "The abstract submission deadline is 09 June."
 
 - title: EMGM
-  year: 2025
-  id: emgm2025
+  year: 2026
+  id: emgm2026
   full_name: European Mathematical Genetics Meeting
-  link: https://emgm2025.sciencesconf.org/
-  deadline: '2025-02-02 00:00:00'
+  link: https://emgm2026.sciencesconf.org/
+  deadline: '2026-02-01 00:00:00'
   timezone: UTC+1
-  place: Brest, France
-  date: April 08-09, 2025
-  start: 2025-04-08
-  end: 2025-04-09
+  place: Davos, Switzerland
+  date: April 14-15, 2026
+  start: 2026-04-14
+  end: 2026-04-15
   sub: GEN
 
 - title: Mathematical and Statistical Aspects of Molecular Biology
@@ -87,102 +85,98 @@
   note: "The abstract deadline has not been released."
 
 - title: BCS
-  year: 2025
-  id: BCS2025
-  full_name: British and Irish Hypertension Society 2025 Annual Scientific Meeting
+  year: 2026
+  id: BCS2026
+  full_name: British and Irish Hypertension Society 2026 Annual Scientific Meeting
   link: https://britishcardiovascularsociety.org.uk/annual-conference/
   timezone: Europe/London
   place: Manchester, United Kingdom 
-  deadline: '2025-03-09 23:59:59'
-  date: June 02-04, 2025
-  start: 2025-06-02
-  end: 2025-06-04
+  deadline: '2025-02-08 23:59:59'
+  date: June 01-03, 2026
+  start: 2026-03-01
+  end: 2026-03-03
   sub: CVD
-  note: "The abstract deadline has not been released."
 
 - title: Computing in Cardiology
-  year: 2025
-  id: CinC2025
+  year: 2026
+  id: CinC2026
   full_name: Computing in Cardiology Conference
-  link: https://cinc2025.eventos.ufabc.edu.br/
-  timezone: UTC-3
+  link: https://cinc2026.org/
+  timezone: UTC+1
   place: Sao Paulo, Brazil
-  deadline: '2025-09-14 00:00:00'
-  date: September, 14-17, 2025
-  start: 2025-09-14
-  end: 2025-09-17
+  deadline: '2026-04-15 00:00:00'
+  date: September, 20-23, 2026
+  start: 2026-09-20
+  end: 2026-09-23
   sub: ['CVD', 'BIOINFO']
-  note: "The abstract deadline has not been released."
 
 - title: Cardio Genomics Conference
-  year: 2024
-  id: CGC2024
+  year: 2026
+  id: CGC2026
   full_name: ESC Cardio Genomics Conference
-  link: https://esc365.escardio.org/event/1652
-  deadline: '2024-09-04 00:00:00'
-  timezone: Europe/Brussels
-  place: Antwerp, Belgium
-  date: December, 06-07, 2024
-  start: 2024-12-06
-  end: 2024-12-07
+  link: https://esc365.escardio.org/event/2256
+  deadline: '2026-09-07 00:00:00'
+  timezone: UTC+1
+  place: Munich, Germany
+  date: December, 04-05, 2026
+  start: 2026-12-04
+  end: 2026-12-05
   sub: ['CVD', 'GEN']
 
 - title: UK Biobank Scientific Conference
-  year: 2024
-  id: UKB2024
-  full_name: UK Biobank 2024 Scientific Conference
-  link: https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/scientific-conference-2024
-  deadline: '2024-11-11 08:00:00'
+  year: 2025
+  id: UKB2025
+  full_name: UK Biobank 2025 Scientific Conference
+  link: https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/scientific-conference-2025
+  deadline: '2025-11-11 08:00:00'
   timezone: Europe/London
   place: London, United Kingdom
-  date: December, 10, 2024
-  start: 2024-12-10
-  end: 2024-12-10
+  date: December, 8, 2025
+  start: 2025-12-8
+  end: 2025-12-8
   sub: BANK
-  note: "The abstract submission is for UKB Early-Career Researcher of the Year 2024"
 
 - title: Festival of Genomics & Biodata
-  year: 2025
-  id: FGB2025
+  year: 2026
+  id: FGB2026
   full_name: Festival of Genomics & Biodata
   link: https://festivalofgenomics.com/london/en/page/home
-  timezone: UTC-12
-  deadline: '2024-08-30 23:59:00'
+  timezone: UTC
+  deadline: '2025-08-30 23:59:00'
   place: London, United Kingdom
-  date: January 29-30, 2025
-  start: 2025-01-29
-  end: 2025-01-30
+  date: January 28-29, 2026
+  start: 2026-01-28
+  end: 2026-01-29
   sub: GEN
   note: "Submission deadlines to be announced (usually in late August)."
   
 - title: Intelligent Systems for Molecular Biology
-  year: 2025
-  id: ISMB2025
+  year: 2026
+  id: ISMB2026
   full_name: Intelligent Systems for Molecular Biology
-  link: https://www.iscb.org/ismbeccb2025/home
-  timezone: UTC-12
-  deadline: '2025-04-15 23:59:00'
-  place: Liverpool, United Kingdom
-  date: July, 2025
-  start: 2025-08-01
-  end: 2025-08-05
+  link: https://www.iscb.org/ismb2026/home
+  timezone: UTC-5
+  deadline: '2026-04-09 23:59:00'
+  place: Washington DC, United States
+  date: July 12-16, 2026
+  start: 2026-07-12
+  end: 2026-07-16
   sub: BIOINFO
-  note: "Actual conference dates and submission deadlines TBD (submission usually in April)."
+  note: "Late breaking deadlines for posters on May 7th."
 
 - title: MICCAI
-  year: 2025
-  id: miccai2025
+  year: 2026
+  id: miccai2026
   full_name: International Conference on Medical Image Computing and Computer-Assisted Intervention
-  link: https://conferences.miccai.org/2025/en/default.asp
-  deadline: '2025-02-27 23:59:00'
-  abstract_deadline: '2025-02-13 23:59:00'
-  timezone: UTC+9
-  place: Daejeon, South Korea
-  date: September 23-27, 2025
-  start: 2025-09-23
-  end: 2025-09-27
+  link: https://conferences.miccai.org/2026/en/default.asp
+  deadline: '2026-02-26 23:59:00'
+  abstract_deadline: '2026-02-12 23:59:00'
+  timezone: UTC+4
+  place: Abu Dhabi, United Arab Emirates
+  date: October 4-8, 2026
+  start: 2026-10-04
+  end: 2026-10-08
   sub: CLIN
-  note: "The deadline for submissions has passed"
 
 - title: SEGEG
   year: 2024
@@ -211,31 +205,32 @@
   sub: ['CLIN', 'BIOINFO']
 
 - title: ICLR
-  year: 2025
-  id: iclr25
-  full_name: The Thirteenth International Conference on Learning Representations
+  year: 2026
+  id: iclr26
+  full_name: The Fourteenth International Conference on Learning Representations
   link: https://iclr.cc/
-  deadline: '2024-10-01 23:59:00'
-  abstract_deadline: '2024-09-27 23:59:00'
-  timezone: UTC-12
-  place: Singapore, Singapore
-  date: April 24-28, 2025
-  start: 2025-04-24
-  end: 2025-04-28
+  deadline: '2025-09-24 23:59:00'
+  abstract_deadline: '2025-09-19 23:59:00'
+  timezone: UTC-3
+  place: Rio de Janeiro, Brazil
+  date: April 23-27, 2026
+  start: 2026-04-23
+  end: 2026-04-27
   sub: ML
-  note: "The deadline for submissions is 27 September 2024 (abstract) / 01 October 2024 (full paper)."
+  note: "The deadline has passed."
 
 - title: ICML
-  year: 2025
-  id: icml25
+  year: 2026
+  id: icml26
   full_name: International Conference on Machine Learning
   link: https://icml.cc/
-  deadline: '2025-01-10 23:59:00'
-  timezone: UTC-12
-  place: Vancouver, BC, Canada
-  date: July 13 - 19, 2025
-  start: 2025-07-13
-  end: 2025-07-19
+  deadline: '2026-01-28 23:59:00'
+  abstract-deadline: '2026-01-23 23:59:00'
+  timezone: UTC+9
+  place: Seoul, South Korea
+  date: July 6-11, 2026
+  start: 2026-07-06
+  end: 2026-07-11
   sub: ML
   note: "Actual submission deadlines tba, usually in late Jan."
 
@@ -254,46 +249,46 @@
   note: "The deadline for submissions is 25 January."
 
 - title: ESC Congress
-  year: 2025
-  id: ESC2024
-  full_name: ESC Congress 2025 together with World Congress of Cardiology
+  year: 2026
+  id: ESC2026
+  full_name: ESC Congress 2026
   link: https://www.escardio.org/Congresses-Events/ESC-Congress
-  deadline: '2025-03-01 00:00:00'
-  timezone: Europe/Madrid
-  place: Madrid, Spain
-  date: August, 2024
-  start: 2025-08-29
-  end: 2025-09-01
+  deadline: '2026-03-01 00:00:00'
+  timezone: UTC+1
+  place: Munich, Germany
+  date: August 28-31, 2026
+  start: 2026-08-28
+  end: 2026-08-31
   sub: ['CVD']
 
 
-- title: ACC.25
-  year: 2025
-  id: ACC2025
-  full_name: American College of Cardiology 2025
-  link: https://www.ashg.org/meetings/2025meeting/
-  timezone: UTC-5
-  deadline: '2024-10-01 13:00:00'
+- title: ACC.26
+  year: 2026
+  id: ACC2026
+  full_name: American College of Cardiology 2026
+  link: https://www.expo.acc.org/ACC26/Public/Enter.aspx
+  timezone: UTC-6
+  deadline: '2025-10-02 13:00:00'
   place: Chicago, United States
-  date: March 29-31, 2025
-  start: 2025-03-29
-  end: 2025-03-31
+  date: March 28-30, 2026
+  start: 2026-03-28
+  end: 2026-03-30
   sub: ['CVD']
   note: "The abstract deadline has passed."
 
 - title: Heart Rhythm
-  year: 2025
-  id: HR2025
-  full_name: Heart Rhythm 2025
-  link: https://heartrhythm.com/attend/heart-rhythm-2025
-  timezone: UTC-8
-  place: San Diego, United States
-  deadline: '2024-12-02 00:00:00'
-  date: April 24-27, 2025
-  start: 2025-04-24
-  end: 2025-04-27
+  year: 2026
+  id: HR2026
+  full_name: Heart Rhythm 2026
+  link: https://heartrhythm.com/heart-rhythm-2026
+  timezone: UTC-5
+  place: Chicago, United States
+  deadline: '2026-02-04 00:00:00'
+  date: April 23-26, 2026
+  start: 2026-04-23
+  end: 2026-04-26
   sub: ['CVD']
-  note: "The abstract deadline has passed."
+  note: "Late-breaking abstract deadline."
 
 - title: IGES
   year: 2025
@@ -310,29 +305,28 @@
   note: "The abstract deadline has not been released yet."
 
 - title: ESH
-  year: 2025
-  id: esh2025
+  year: 2026
+  id: esh2026
   full_name: European Meeting on Hypertension and Cardiovascular Protection
   link: https://eshannualmeetings.eu/
-  deadline: '2025-01-10 23:59:00'
+  deadline: '2026-01-16 23:59:00'
   timezone: UTC+1
-  place: Milan, Italy
-  date: May 23-26, 2025
-  start: 2025-05-23
-  end: 2025-05-26
+  place: Gdańsk, Poland
+  date: May 28-31, 2026
+  start: 2026-05-28
+  end: 2026-05-31
   sub: CVD
 
 - title: IEEE EMBS
-  year: 2025
-  id: EMBS2025
+  year: 2026
+  id: EMBS2026
   full_name: IEEE Engineering in Medicine and Biology Society
-  link: https://embc.embs.org/2025/
+  link: https://embc.embs.org/2026/
   timezone: UTC+1
-  place: Copenhagen, Denmark
-  abstract_deadline: '2025-02-07 00:00:00'
-  deadline: '2025-01-31 00:00:00'
-  date: July 14-17, 2025
-  start: 2025-07-14
-  end: 2025-07-17
+  place: Toronto, Canada
+  deadline: '2026-01-23 00:00:00'
+  date: July 26-30, 2026
+  start: 2026-07-26
+  end: 2026-07-30
   sub: BIOINFO
 
