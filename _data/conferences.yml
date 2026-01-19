@@ -261,6 +261,19 @@
   end: 2026-08-31
   sub: ['CVD']
 
+- title: ESC Digital & AI Summit
+  year: 2026
+  id: ESCDAI2026
+  full_name: ESC Digital & AI Summit 2026
+  link: https://www.escardio.org/Congresses-Events/ESC-Digital-AI-Summit
+  deadline: '2026-11-11 00:00:00'
+  timezone: UTC+1
+  place: Basel, Switzerland
+  date: November 12-13, 2026
+  start: 2026-11-12
+  end: 2026-11-13
+  sub: ['CVD', 'BIOINFO']
+  note: "The abstract deadline  has not been released."
 
 - title: ACC.26
   year: 2026
