@@ -64,25 +64,24 @@
   timezone: UTC-12
   place: London, United Kingdom
   deadline: '2025-09-08 00:00:00'
-  date: September 08-09, 2025
-  start: 2025-09-08
-  end: 2025-09-09
+  date: September 14-15, 2026
+  start: 2026-09-14
+  end: 2026-09-15
   sub: BIOINFO
   note: "The abstract deadline has not been released."
 
 - title: BIHS
-  year: 2025
-  id: BIHS2025
+  year: 2026
+  id: BIHS2026
   full_name: British and Irish Hypertension Society 2025 Annual Scientific Meeting
-  link: https://bihs.org.uk/events/2025-annual-scientific-meeting/
+  link: https://bihs.org.uk/events/47/bihs_45th_annual_scientific_meeting_2026
   timezone: Europe/London
-  place: Cambridge, United Kingdom 
-  deadline: '2025-09-29 00:00:00'
-  date: September, 29-30, 2025
-  start: 2025-09-29
-  end: 2025-09-30
+  place: Liverpool, United Kingdom 
+  deadline: '2026-04-20 23:59:59'
+  date: September, 14-15, 2026
+  start: 2026-09-14
+  end: 2026-09-15
   sub: CVD
-  note: "The abstract deadline has not been released."
 
 - title: BCS
   year: 2026
